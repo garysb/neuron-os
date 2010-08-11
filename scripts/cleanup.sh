@@ -50,3 +50,4 @@ fi
 if [ -f "${ROOT}partition_table" ]; then
 	rm -v ${root}partition_table;
 fi
+

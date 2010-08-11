@@ -166,3 +166,4 @@ sudo cp ${KERNEL_HEX} ${DRIVE}/kernel
 # Unmount drive and remove loopback device
 sudo umount ${LOOP}
 sudo losetup -d ${LOOP}
+

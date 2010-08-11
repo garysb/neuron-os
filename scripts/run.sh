@@ -11,3 +11,4 @@ fi
 
 # Script to compile the code, then build the image, then execute bochs
 bochs -qf `echo ${BOCHS_CONFIG}`;
+
